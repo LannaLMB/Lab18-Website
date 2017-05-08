@@ -1,0 +1,51 @@
+h1
+{
+	color:orange;
+	text-align:center;
+}
+
+.makecenter
+{
+	text-align: center;
+}
+
+#OrangeText
+{
+	color:orange;
+}
+
+h2
+{
+	color:gray;
+	font-style: italic;
+	text-align:center;
+}
+
+h3
+{
+	color:navy;
+	text-align:center;
+}
+
+h4
+{
+	color:purple;
+	text-align:center;
+}
+
+/* hyperlink styles */
+a:link {
+color: #db7070; /* peachy */
+}
+a:visited {
+color: #db7070; /* peachy */
+}
+a:hover {
+text-decoration: none;
+color: #ff9900; /* yellow */
+font-weight: bold;
+}
+a:active {
+color: #00ff99; /* aqua */
+}
+
